@@ -1,0 +1,1 @@
+const blog = 0;
